@@ -35,4 +35,4 @@ async def on_message(message):
 		em.set_image(url='http://www.swansea.ac.uk/accommodation/applying-for-accommodation/what-happens-next/web-shutterstock-105518339.jpg')
 		await client.send_message(message.channel. embed-em)
 
-client.run("NTAyNTQxNDYxNzc0OTI1ODM0.Dqpb3w.NNMkoYLQuAoa3YujA-4aBoR0ask")
+client.run("")
