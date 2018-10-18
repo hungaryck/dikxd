@@ -1,1 +1,1 @@
-node app.py
+python app.py
